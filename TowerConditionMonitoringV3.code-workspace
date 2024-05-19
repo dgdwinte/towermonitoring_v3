@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.envFile": "${workspaceFolder}/dev.env",
+		"python.autoComplete.extraPaths": [
+			
+
+
+		]
+	}
+}
